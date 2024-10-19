@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 4d42d856b32ea21448ac988121ee4163
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 9133
+  packageName: Dirty Lens Flare
+  packageVersion: 1.1.0
+  assetPath: Assets/MaxP/Shaders/_Source/Shaders/Resources/Blur.shader
+  uploadId: 29321

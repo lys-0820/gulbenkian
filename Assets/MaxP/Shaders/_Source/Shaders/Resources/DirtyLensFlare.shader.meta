@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: b7b3972ca8fb15043aa4bc35a639f3d5
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 9133
+  packageName: Dirty Lens Flare
+  packageVersion: 1.1.0
+  assetPath: Assets/MaxP/Shaders/_Source/Shaders/Resources/DirtyLensFlare.shader
+  uploadId: 29321

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="woodenframe" size="0.200000 0.263900" />
+    <ImageTarget name="polaroidframe" size="0.200000 0.243129" />
+    <ImageTarget name="blur" size="0.200000 0.266771" />
+  </Tracking>
+</QCARConfig>
